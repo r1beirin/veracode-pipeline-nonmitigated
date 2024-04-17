@@ -3,6 +3,7 @@ This script will discard "approved mitigations" from Veracode Plataform and will
 
 # Usage
 Arg `-rf` it's name of results.json from a pipeline scan to matched findings. So it's important create a results.json.
+
 Arg `-of` it's name of baseline that will be created.
 
 `python main.py -an $application_name -rf results.json -of baseline.json -vid $veracodeID -vkey $veracodeKEY`
