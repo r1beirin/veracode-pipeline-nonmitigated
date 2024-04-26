@@ -1,4 +1,4 @@
-# Veracode Pipeline Non Mitigated
+# Veracode Pipeline Non Mitigated Baseline
 This script will discard "approved mitigations" from Veracode Plataform and will create a baseline to a Pipeline Scan.
 
 # Usage
